@@ -13,7 +13,7 @@ Frontend on netlify.com
 
 Backend on cyclic.sh
 
- - https://pear-alligator-wear.cyclic.app/api/booking
+ https://teddy-dolphin.cyclic.app
 
 
 ## Installation
