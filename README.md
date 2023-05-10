@@ -68,7 +68,6 @@ Note : your mongodb clustur connect key
 
 `API_KEY`
 
- MONGOURI : mongodb+srv://user_name:<password>@cluster0.adfedxd.mongodb.net/<batabase_name>?retryWrites=true&w=majority
 
 
 
